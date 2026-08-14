@@ -1,0 +1,16 @@
+[
+     {
+          "id": 1,
+          "description": "get lunch",
+          "status": "in-progress",
+          "createdAt": "2026-08-14T10:22:37.079386",
+          "updatedAt": "2026-08-14T10:24:28.806189"
+     },
+     {
+          "id": 2,
+          "description": "waef",
+          "status": "todo",
+          "createdAt": "2026-08-14T10:39:06.570153",
+          "updatedAt": "2026-08-14T10:39:06.570180"
+     }
+]

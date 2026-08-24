@@ -9,42 +9,42 @@ Task Tracker is a simple command-line interface (CLI) to manage your everyday ta
 - List tasks
 - List todo tasks
 - List in-progress tasks
-- List finished tasks
+- List completed tasks
 ## Usage
 Add a task
-```
+```bash
 python main.py add "Buy groceries"
 ```
 Update a task
-```
+```bash
 python main.py update 1 "Buy milk and beef"
 ```
-Delete a task 
-```
+Delete a task
+```bash
 python main.py delete 1
 ```
-Mark tasks as in progress
-```
+Mark a task as in progress
+```bash
 python main.py mark-in-progress 1
 ```
-Mark tasks as done
-```
+Mark a task as done
+```bash
 python main.py mark-done 1
 ```
 List tasks
-```
+```bash
 python main.py list
 ```
 List todo tasks
-```
+```bash
 python main.py list todo
 ```
 List in-progress tasks
-```
+```bash
 python main.py list in-progress
 ```
-List finished tasks
-```
+List completed tasks
+```bash
 python main.py list done
 ```
 ## Contributing
